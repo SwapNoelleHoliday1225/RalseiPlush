@@ -1,0 +1,8 @@
+{
+  "Type": "ChangeBlock",
+  "Changes": {
+    "Ralsei_Plush_Hat": "Ralsei_Plush",
+    "Ralsei_Plush": "Ralsei_Plush_Fat",
+    "Ralsei_Plush_Fat": "Ralsei_Plush_Hat"
+  }
+}
