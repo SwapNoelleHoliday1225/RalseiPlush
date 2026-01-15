@@ -1,0 +1,20 @@
+{
+  "Group": "ToughGirl1225",
+  "Name": "Ralsei Plush",
+  "Version": "1.0.0",
+  "Description": "A simple pack that adds a plushie of Ralsei from the game Deltarune into the world. Base code from @TehAwesomestKit on Twitter!",
+  "Authors": [
+    {
+      "Name": "ToughGirl1225",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "https://x.com/ToughGirl1225/",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
