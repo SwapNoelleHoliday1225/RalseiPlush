@@ -1,0 +1,54 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/Ralsei_Plush/ralsei_plush_hat.png"
+      }
+    ],
+    "CustomModel": "Items/Ralsei_Plush/ralsei_plush_hat.blockymodel",
+    "CustomModelScale": 0.55,
+    "Material": "Solid",
+    "Flags": {
+      "IsUsable": true
+    },
+    "PlacementSettings": {
+      "RotationMode": "FacingPlayer"
+    },
+    "HitboxType": "Ralsei_Plush_Bounding_Box",
+    "InteractionHitboxType": "Ralsei_Plush_Bounding_Box",
+    "Interactions": {
+      "Use": "Ralsei_Plush_Interaction"
+    },
+    "BlockSoundSetId": "Plushie",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "ItemId": "Ralsei_Plush",
+        "GatherType": "SoftBlocks"
+      }
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "TranslationProperties": {
+    "Name": "Ralsei Plush",
+    "Description": "A plushie of Ralsei, a character from the game Deltarune. Can hold a single item at a time."
+  },
+  "Icon": "Icons/ItemsGenerated/Ralsei_Plush.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "MaxStack": 4,
+  "ItemLevel": 10,
+  "Quality": "Uncommon",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}
